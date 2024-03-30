@@ -8,9 +8,12 @@ This project aims to analyze the employee data of ABC company, consisting of 458
 
 The program performs the following tasks;
 
-Preprocessing Steps
+**Preprocessing Steps**
+
 Corrected the data in the "height" column by replacing it with random numbers between 150 and 180 to ensure data consistency and integrity.
-Analysis Tasks
+
+**Analysis Tasks**
+
 1. Distribution of Employees Across Teams
 Determined the distribution of employees across each team.
 Calculated the percentage split relative to the total number of employees.
@@ -28,18 +31,23 @@ Visualized salary expenditure by team and position using bar plots.
 Investigated if there's any correlation between age and salary.
 Visualized the correlation using a scatter plot.
 Calculated the correlation coefficient.
-Graphical Representation
+
+**Graphical Representation**
+
 For each of the five analysis tasks, appropriate visualizations were created to present the findings effectively. These visualizations include bar plots for distribution analysis and scatter plots for correlation analysis.
 
-Data Story
-Insights gained from the analysis include:
+**Data Story**
+
+**Insights gained from the analysis include:**
 
 Distribution of employees across teams: Team A has the highest number of employees, followed by Team B and Team C.
 Segregation of employees based on positions: Most employees hold the position of Analyst, followed by Manager and Programmer.
 Predominant age group among employees: Employees aged 25-29 constitute the majority.
 Team and position with the highest salary expenditure: Team C and the Analyst position have the highest salary expenditure.
 Correlation between age and salary: There is a moderate positive correlation between age and salary.
-Additional Information
+
+**Additional Information**
+
 The project was completed using Python programming language.
 Pandas and Matplotlib libraries were utilized for data analysis and visualization.
 Timely submission of the project was ensured to earn additional marks.
